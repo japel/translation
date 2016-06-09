@@ -2,17 +2,22 @@
 # This file is distributed under the same license as the Development (trunk) package.
 msgid ""
 msgstr ""
+"Project-Id-Version: Development (trunk)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-07 20:38:59+0000\n"
-"MIME-Version: 1.0\n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
 "X-Generator: GlotPress/0.1\n"
-"Project-Id-Version: Development (trunk)\n"
 
 #: wordpress-importer.php:1017
 msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
-msgstr "Wähle eine WXR (.xml) Datei zum Hochladen, dann klicke auf Hochladen und importieren"
+msgstr "Test 123456jsdn kndfksdnfksdfnkjsdf"
 
 #: wordpress-importer.php:889
 msgid "Zero size file downloaded"
