@@ -17,7 +17,7 @@ msgstr ""
 
 #: wordpress-importer.php:1017
 msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
-msgstr "Test 123456jsdn kndfksdnfksdfnkjsdf"
+msgstr "Wähle eine WXR (.xml) Datei zum Hochladen, dann klicke auf Hochladen und importieren"
 
 #: wordpress-importer.php:889
 msgid "Zero size file downloaded"
