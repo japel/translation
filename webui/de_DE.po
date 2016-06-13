@@ -4,11 +4,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: openSUSE-packages\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-02 01:17:11\n"
 "PO-Revision-Date: 2015-11-06 07:47+0000\n"
 "Last-Translator: ÐÐ»ÐµÐºÑÐ°Ð½Ð´Ñ€ ÐœÐµÐ»ÐµÐ½Ñ‚ÑŒÐµÐ² <minton@opensuse.org>\n"
-"Language-Team: German (http://www.transifex.com/minton/openSUSE-packages/language/de/)\n"
 "Language: de\n"
+"Language-Team: German (http://www.transifex.com/minton/openSUSE-packages/language/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -17,12 +18,11 @@ msgstr ""
 #. leap/gnome-sharp2/art-sharp2/summary
 #, fuzzy
 msgid "Mono bindings for libart"
-msgstr "Python-Bindings fÃ¼r ORBit"
+msgstr "Python-Bindings für ORBit"
 
 #. tumbleweed/gnome-sharp2/art-sharp2/description
 #. leap/gnome-sharp2/art-sharp2/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Mono bindings for libart."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
@@ -35,21 +35,18 @@ msgstr "Python-Bindings fÃ¼r GNOME"
 #. tumbleweed/gnome-sharp2/gconf-sharp-peditors2/description
 #. leap/gnome-sharp2/gconf-sharp-peditors2/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Mono bindings for gconf property editors."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
 #. tumbleweed/gnome-sharp2/gconf-sharp2/summary
 #. leap/gnome-sharp2/gconf-sharp2/summary
 #, fuzzy
-#| msgid "Mono bindings for rsvg"
 msgid "Mono bindings for gconf"
 msgstr "Mono Anbindung fÃ¼r rsvg"
 
 #. tumbleweed/gnome-sharp2/gconf-sharp2/description
 #. leap/gnome-sharp2/gconf-sharp2/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Mono bindings for gconf and gconf peditors."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
@@ -127,7 +124,6 @@ msgstr ""
 #. tumbleweed/gnome-break-timer/summary
 #. leap/gnome-break-timer/summary
 #, fuzzy
-#| msgid "GNOME Binary Editor"
 msgid "GNOME Break Timer"
 msgstr "GNOME-Editor fÃ¼r BinÃ¤rdateien"
 
@@ -211,7 +207,6 @@ msgstr ""
 #. tumbleweed/gnome-color-chooser/summary
 #. leap/gnome-color-chooser/summary
 #, fuzzy
-#| msgid "Sounds for GNOME and Gtk applications."
 msgid "Tool to customize appearance of GNOME and GTK+ applications"
 msgstr "KlÃ¤nge fÃ¼r GNOME- and Gtk-Applikationen."
 
@@ -300,13 +295,11 @@ msgstr "Python-Bindings fÃ¼r GNOME"
 
 #. tumbleweed/gnome-desktop-sharp2/gnome-desktop-sharp2-devel/summary
 #, fuzzy
-#| msgid "Development files for libgnomesu"
 msgid "Development files for gnome-desktop-sharp2"
 msgstr "Dateien zur Entwicklung mit libgnomesu"
 
 #. tumbleweed/gnome-desktop-sharp2/gnome-desktop-sharp2-devel/description
 #, fuzzy
-#| msgid "Development files for libgnomesu"
 msgid "Development files (.pc) for gnome-desktop-sharp2."
 msgstr "Dateien zur Entwicklung mit libgnomesu"
 
@@ -431,7 +424,6 @@ msgstr ""
 #. tumbleweed/gnome-games/summary
 #. leap/gnome-games/summary
 #, fuzzy
-#| msgid "Games for the GNOME 2.x Desktop"
 msgid "Games for GNOME -- meta package"
 msgstr "Spiele fÃ¼r den GNOME 2.x Desktop"
 
@@ -498,7 +490,6 @@ msgstr ""
 #. leap/gnome-keyring/summary
 #. leap/gnome-keyring/gnome-keyring-32bit/summary
 #, fuzzy
-#| msgid "GNOME Keyring Password Manager"
 msgid "GNOME Keyring"
 msgstr "GNOME Keyring Passwortverwaltung"
 
@@ -517,7 +508,6 @@ msgstr ""
 #. leap/gnome-keyring/gnome-keyring-pam/summary
 #. leap/gnome-keyring/gnome-keyring-pam-32bit/summary
 #, fuzzy
-#| msgid "GNOME Keyring Password Manager"
 msgid "GNOME Keyring - PAM module"
 msgstr "GNOME Keyring Passwortverwaltung"
 
@@ -569,7 +559,6 @@ msgstr ""
 #. tumbleweed/gnome-logs/summary
 #. leap/gnome-logs/summary
 #, fuzzy
-#| msgid "A GNOME PDF Viewer"
 msgid "GNOME System Log Viewer"
 msgstr "Ein GNOME-PDF-Betrachter"
 
@@ -739,7 +728,6 @@ msgstr ""
 #. tumbleweed/gnome-phone-manager/summary
 #. leap/gnome-phone-manager/summary
 #, fuzzy
-#| msgid "An Archive Manager for GNOME"
 msgid "Phone Manager for GNOME"
 msgstr "Ein Archivmanager fÃ¼r GNOME"
 
@@ -761,7 +749,6 @@ msgstr ""
 
 #. tumbleweed/gnome-pomodoro/summary
 #, fuzzy
-#| msgid "Project Management Application for GNOME"
 msgid "A time management utility for GNOME"
 msgstr "Eine Projektmanagement-Applikation fÃ¼r GNOME"
 
@@ -905,14 +892,12 @@ msgstr ""
 #. tumbleweed/gnome-sharp2/summary
 #. leap/gnome-sharp2/summary
 #, fuzzy
-#| msgid "Python bindings for GNOME"
 msgid "Mono bindings for GNOME"
 msgstr "Python-Bindings fÃ¼r GNOME"
 
 #. tumbleweed/gnome-sharp2/description
 #. leap/gnome-sharp2/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Mono bindings for GNOME."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
@@ -967,7 +952,6 @@ msgstr ""
 #. tumbleweed/gnome-shell/gnome-shell-devel/summary
 #. leap/gnome-shell/gnome-shell-devel/summary
 #, fuzzy
-#| msgid "OpenSLP Development SDK"
 msgid "GNOME Shell -- Development Files"
 msgstr "OpenSLP Entwicklungsumgebung"
 
@@ -1168,7 +1152,6 @@ msgstr ""
 
 #. tumbleweed/gnome-todo/summary
 #, fuzzy
-#| msgid "An Archive Manager for GNOME"
 msgid "Personal task manager for GNOME"
 msgstr "Ein Archivmanager fÃ¼r GNOME"
 
@@ -1221,7 +1204,6 @@ msgstr "Python-Bindings fÃ¼r GNOME"
 #. tumbleweed/gnome-sharp2/gnome-vfs-sharp2/description
 #. leap/gnome-sharp2/gnome-vfs-sharp2/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Mono bindings for gnomevfs."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
@@ -1398,13 +1380,11 @@ msgstr "Python-Bindings fÃ¼r GNOME"
 
 #. tumbleweed/gnome-python-desktop/python-gnomedesktop/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Python bindings for libgnome-desktop."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
 #. tumbleweed/gnome-python-desktop/python-gnomekeyring/summary
 #, fuzzy
-#| msgid "Python bindings for GNOME"
 msgid "Python bindings for GNOME Keyring"
 msgstr "Python-Bindings fÃ¼r GNOME"
 
@@ -1420,31 +1400,26 @@ msgstr "Python-Schnittstelle zur OGG Bibliothek"
 
 #. tumbleweed/gnome-python-desktop/python-gnomeprint/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Python bindings for libgnomeprint."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
 #. tumbleweed/gnome-python-desktop/python-gtop/summary
 #, fuzzy
-#| msgid "Python bindings for libogg"
 msgid "Python bindings for libgtop"
 msgstr "Python-Schnittstelle zur OGG Bibliothek"
 
 #. tumbleweed/gnome-python-desktop/python-gtop/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Python bindings for libgtop."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
 #. tumbleweed/gnome-python-desktop/python-rsvg/summary
 #, fuzzy
-#| msgid "Python bindings for libogg"
 msgid "Python bindings for librsvg"
 msgstr "Python-Schnittstelle zur OGG Bibliothek"
 
 #. tumbleweed/gnome-python-desktop/python-rsvg/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Python bindings for librsvg."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
@@ -1460,13 +1435,11 @@ msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
 #. tumbleweed/gnome-python-desktop/python-wnck/summary
 #, fuzzy
-#| msgid "Python bindings for libogg"
 msgid "Python bindings for libwnck"
 msgstr "Python-Schnittstelle zur OGG Bibliothek"
 
 #. tumbleweed/gnome-python-desktop/python-wnck/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Python bindings for libwnck."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
@@ -1559,7 +1532,6 @@ msgstr "Python-Bindings fÃ¼r ORBit"
 
 #. tumbleweed/gnome-desktop-sharp2/vte016-sharp/description
 #, fuzzy
-#| msgid "This package contains Mono bindings for librsvg."
 msgid "This package contains Mono bindings for vte."
 msgstr "Dieses Paket enthÃ¤lt die Mono Anbindung fÃ¼r librsvg."
 
@@ -1572,7 +1544,6 @@ msgstr "Python-Bindings fÃ¼r GNOME"
 #. tumbleweed/gnome-2048/gnome-2048-lang/summary
 #. leap/gnome-2048/gnome-2048-lang/summary
 #, fuzzy
-#| msgid "Languages for package nano"
 msgid "Languages for package gnome-2048"
 msgstr "Ãœbersetzungen fÃ¼r das Paket nano"
 
@@ -1595,7 +1566,6 @@ msgstr ""
 #. tumbleweed/gnome-activity-journal/gnome-activity-journal-lang/summary
 #. leap/gnome-activity-journal/gnome-activity-journal-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-activity-journal"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1620,7 +1590,6 @@ msgstr "Das Standard-Gnome-Icon-Theme"
 #. tumbleweed/gnome-backgrounds/gnome-backgrounds-lang/summary
 #. leap/gnome-backgrounds/gnome-backgrounds-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-backgrounds"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1632,7 +1601,6 @@ msgstr "Dokumentation zu gawk."
 
 #. tumbleweed/gnome-blog/gnome-blog-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-blog"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1644,7 +1612,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-bluetooth/gnome-bluetooth-lang/summary
 #. leap/gnome-bluetooth/gnome-bluetooth-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-bluetooth"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1657,7 +1624,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-boxes/gnome-boxes-lang/summary
 #. leap/gnome-boxes/gnome-boxes-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-boxes"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1670,7 +1636,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-break-timer/gnome-break-timer-lang/summary
 #. leap/gnome-break-timer/gnome-break-timer-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-break-timer"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1683,7 +1648,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-builder/gnome-builder-lang/summary
 #. leap/gnome-builder/gnome-builder-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-builder"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1696,7 +1660,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-calculator/gnome-calculator-lang/summary
 #. leap/gnome-calculator/gnome-calculator-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-calculator"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1708,7 +1671,6 @@ msgstr "Dokumentation zu gawk."
 
 #. tumbleweed/gnome-calendar/gnome-calendar-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-calendar"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1720,7 +1682,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-characters/gnome-characters-lang/summary
 #. leap/gnome-characters/gnome-characters-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-characters"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1733,7 +1694,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-chess/gnome-chess-lang/summary
 #. leap/gnome-chess/gnome-chess-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-chess"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1746,7 +1706,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-clocks/gnome-clocks-lang/summary
 #. leap/gnome-clocks/gnome-clocks-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-clocks"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1759,7 +1718,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-color-chooser/gnome-color-chooser-lang/summary
 #. leap/gnome-color-chooser/gnome-color-chooser-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-color-chooser"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1799,7 +1757,6 @@ msgstr ""
 #. tumbleweed/gnome-commander/gnome-commander-lang/summary
 #. leap/gnome-commander/gnome-commander-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-commander"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1817,14 +1774,12 @@ msgstr ""
 #. tumbleweed/gnome-common/description
 #. leap/gnome-common/description
 #, fuzzy
-#| msgid "Gnome-common includes files used by most GNOME 2.x Desktop applications."
 msgid "Gnome-common includes files used by to build GNOME and GNOME applications."
 msgstr "Gnome-eigene Include-Dateien, die von den meisten GNOME 2.x Programmen benutzt werden."
 
 #. tumbleweed/gnome-contacts/gnome-contacts-lang/summary
 #. leap/gnome-contacts/gnome-contacts-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-contacts"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1837,7 +1792,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-control-center/gnome-control-center-lang/summary
 #. leap/gnome-control-center/gnome-control-center-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-control-center"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1850,7 +1804,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-desktop/gnome-desktop-lang/summary
 #. leap/gnome-desktop/gnome-desktop-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-desktop"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1863,7 +1816,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-desktop2/gnome-desktop2-lang/summary
 #. leap/gnome-desktop2/gnome-desktop2-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-desktop2"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1876,7 +1828,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-devel-docs/summary
 #. leap/gnome-devel-docs/summary
 #, fuzzy
-#| msgid "GNOME 2.x Desktop Documentation"
 msgid "GNOME Platform Documentation"
 msgstr "Dokumentation des GNOME 2.x Desktop"
 
@@ -1889,7 +1840,6 @@ msgstr "Dieses Paket enthÃ¤lt Bibliotheken und Include-Dateien, die auf Thin-C
 #. tumbleweed/gnome-devel-docs/gnome-devel-docs-lang/summary
 #. leap/gnome-devel-docs/gnome-devel-docs-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-devel-docs"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1902,7 +1852,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-dictionary/gnome-dictionary-lang/summary
 #. leap/gnome-dictionary/gnome-dictionary-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-dictionary"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1915,7 +1864,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-directory-thumbnailer/gnome-directory-thumbnailer-lang/summary
 #. leap/gnome-directory-thumbnailer/gnome-directory-thumbnailer-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-directory-thumbnailer"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1928,7 +1876,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-disk-utility/gnome-disk-utility-lang/summary
 #. leap/gnome-disk-utility/gnome-disk-utility-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-disk-utility"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1940,7 +1887,6 @@ msgstr "Dokumentation zu gawk."
 
 #. tumbleweed/gnome-do/gnome-do-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-do"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1951,7 +1897,6 @@ msgstr "Dokumentation zu gawk."
 
 #. tumbleweed/gnome-do-plugins/gnome-do-plugins-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-do-plugins"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1978,7 +1923,6 @@ msgstr ""
 #. tumbleweed/gnome-doc-utils/gnome-doc-utils-lang/summary
 #. leap/gnome-doc-utils/gnome-doc-utils-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-doc-utils"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -1991,7 +1935,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-documents/gnome-documents-lang/summary
 #. leap/gnome-documents/gnome-documents-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-documents"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2003,7 +1946,6 @@ msgstr "Dokumentation zu gawk."
 
 #. tumbleweed/gnome-dvb-daemon/gnome-dvb-daemon-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-dvb-daemon"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2015,7 +1957,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-font-viewer/gnome-font-viewer-lang/summary
 #. leap/gnome-font-viewer/gnome-font-viewer-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-font-viewer"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2028,7 +1969,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-games-extra-data/summary
 #. leap/gnome-games-extra-data/summary
 #, fuzzy
-#| msgid "extra sound files for KDE."
 msgid "Extra data files for GNOME Games"
 msgstr "Extra-KlÃ¤nge fÃ¼r KDE."
 
@@ -2063,7 +2003,6 @@ msgstr ""
 #. tumbleweed/gnome-getting-started-docs/gnome-getting-started-docs-lang/summary
 #. leap/gnome-getting-started-docs/gnome-getting-started-docs-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-getting-started-docs"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2083,20 +2022,17 @@ msgstr ""
 
 #. tumbleweed/gnome-gmail/gnome-gmail-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-gmail"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
 #. tumbleweed/gnome-gmail/gnome-gmail-lang/description
 #, fuzzy
-#| msgid "Provides translations to the package ekiga"
 msgid "Provides translations to the package gnome-gmail"
 msgstr "Liefert Ãœbersetzungen fÃ¼r das Paket ekiga"
 
 #. tumbleweed/gnome-gmail-notifier/gnome-gmail-notifier-lang/summary
 #. leap/gnome-gmail-notifier/gnome-gmail-notifier-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-gmail-notifier"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2140,7 +2076,6 @@ msgstr ""
 #. tumbleweed/gnome-initial-setup/gnome-initial-setup-lang/summary
 #. leap/gnome-initial-setup/gnome-initial-setup-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-initial-setup"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2153,21 +2088,18 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-keyring/gnome-keyring-lang/summary
 #. leap/gnome-keyring/gnome-keyring-lang/summary
 #, fuzzy
-#| msgid "Languages for package aqbanking"
 msgid "Languages for package gnome-keyring"
 msgstr "Ãœbersetzungen fÃ¼r das Paket aqbanking"
 
 #. tumbleweed/gnome-keyring/gnome-keyring-lang/description
 #. leap/gnome-keyring/gnome-keyring-lang/description
 #, fuzzy
-#| msgid "Provides translations to the package aqbanking"
 msgid "Provides translations to the package gnome-keyring"
 msgstr "Liefert Ãœbersetzungen fÃ¼r das Paket aqbanking"
 
 #. tumbleweed/gnome-klotski/gnome-klotski-lang/summary
 #. leap/gnome-klotski/gnome-klotski-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-klotski"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2180,7 +2112,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-logs/gnome-logs-lang/summary
 #. leap/gnome-logs/gnome-logs-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-logs"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2193,28 +2124,24 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-mahjongg/gnome-mahjongg-lang/summary
 #. leap/gnome-mahjongg/gnome-mahjongg-lang/summary
 #, fuzzy
-#| msgid "Languages for package nano"
 msgid "Languages for package gnome-mahjongg"
 msgstr "Ãœbersetzungen fÃ¼r das Paket nano"
 
 #. tumbleweed/gnome-mahjongg/gnome-mahjongg-lang/description
 #. leap/gnome-mahjongg/gnome-mahjongg-lang/description
 #, fuzzy
-#| msgid "Provides translations to the package ekiga"
 msgid "Provides translations to the package gnome-mahjongg"
 msgstr "Liefert Ãœbersetzungen fÃ¼r das Paket ekiga"
 
 #. tumbleweed/gnome-maps/gnome-maps-lang/summary
 #. leap/gnome-maps/gnome-maps-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-maps"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
 #. tumbleweed/gnome-maps/gnome-maps-lang/description
 #. leap/gnome-maps/gnome-maps-lang/description
 #, fuzzy
-#| msgid "Provides translations to the package ekiga"
 msgid "Provides translations to the package gnome-maps"
 msgstr "Liefert Ãœbersetzungen fÃ¼r das Paket ekiga"
 
@@ -2255,7 +2182,6 @@ msgstr ""
 #. tumbleweed/gnome-menus/gnome-menus-lang/summary
 #. leap/gnome-menus/gnome-menus-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-menus"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2279,7 +2205,6 @@ msgstr "Dieses Modul enthÃ¤lt die Basis-MIME- und Applikations-Datenbank fÃ¼
 #. tumbleweed/gnome-mines/gnome-mines-lang/summary
 #. leap/gnome-mines/gnome-mines-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-mines"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2292,7 +2217,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-multi-writer/gnome-multi-writer-lang/summary
 #. leap/gnome-multi-writer/gnome-multi-writer-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-multi-writer"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2305,7 +2229,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-music/gnome-music-lang/summary
 #. leap/gnome-music/gnome-music-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-music"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2318,7 +2241,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-nettool/gnome-nettool-lang/summary
 #. leap/gnome-nettool/gnome-nettool-lang/summary
 #, fuzzy
-#| msgid "Languages for package nano"
 msgid "Languages for package gnome-nettool"
 msgstr "Ãœbersetzungen fÃ¼r das Paket nano"
 
@@ -2335,14 +2257,12 @@ msgstr "Newsreader"
 
 #. tumbleweed/gnome-news/description
 #, fuzzy
-#| msgid "A GNOME PDF Viewer"
 msgid "A GNOME 3 Feed Reader."
 msgstr "Ein GNOME-PDF-Betrachter"
 
 #. tumbleweed/gnome-nibbles/gnome-nibbles-lang/summary
 #. leap/gnome-nibbles/gnome-nibbles-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-nibbles"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2355,7 +2275,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-online-accounts/gnome-online-accounts-lang/summary
 #. leap/gnome-online-accounts/gnome-online-accounts-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-online-accounts"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2368,7 +2287,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-packagekit/gnome-packagekit-lang/summary
 #. leap/gnome-packagekit/gnome-packagekit-lang/summary
 #, fuzzy
-#| msgid "Languages for package PackageKit"
 msgid "Languages for package gnome-packagekit"
 msgstr "Ãœbersetzungen fÃ¼r das Paket PackageKit"
 
@@ -2403,7 +2321,6 @@ msgstr "Liefert Ãœbersetzungen fÃ¼r das Paket dar"
 #. tumbleweed/gnome-photos/gnome-photos-lang/summary
 #. leap/gnome-photos/gnome-photos-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-photos"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2415,7 +2332,6 @@ msgstr "Dokumentation zu gawk."
 
 #. tumbleweed/gnome-pomodoro/gnome-pomodoro-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-pomodoro"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2427,7 +2343,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-power-manager/gnome-power-manager-lang/summary
 #. leap/gnome-power-manager/gnome-power-manager-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-power-manager"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2440,7 +2355,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-robots/gnome-robots-lang/summary
 #. leap/gnome-robots/gnome-robots-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-robots"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2463,7 +2377,6 @@ msgstr ""
 #. tumbleweed/gnome-schedule/gnome-schedule-lang/summary
 #. leap/gnome-schedule/gnome-schedule-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-schedule"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2476,7 +2389,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-screenshot/gnome-screenshot-lang/summary
 #. leap/gnome-screenshot/gnome-screenshot-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-screenshot"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2489,7 +2401,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-search-tool/gnome-search-tool-lang/summary
 #. leap/gnome-search-tool/gnome-search-tool-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-search-tool"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2502,7 +2413,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-session/gnome-session-lang/summary
 #. leap/gnome-session/gnome-session-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-session"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2515,7 +2425,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-settings-daemon/gnome-settings-daemon-lang/summary
 #. leap/gnome-settings-daemon/gnome-settings-daemon-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-settings-daemon"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2552,7 +2461,6 @@ msgstr "Dieses Paket enthÃ¤lt die Entwicklungs-Headerdateien und statischen Bi
 #. tumbleweed/gnome-shell-extensions/gnome-shell-extensions-common-lang/summary
 #. leap/gnome-shell-extensions/gnome-shell-extensions-common-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-shell-extensions"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2565,7 +2473,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-shell/gnome-shell-lang/summary
 #. leap/gnome-shell/gnome-shell-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-shell"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2588,7 +2495,6 @@ msgstr ""
 #. tumbleweed/gnome-software/gnome-software-lang/summary
 #. leap/gnome-software/gnome-software-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-software"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2601,7 +2507,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-sound-recorder/summary
 #. leap/gnome-sound-recorder/summary
 #, fuzzy
-#| msgid "A Sound Recorder"
 msgid "Sound Recorder"
 msgstr "Ein Klangrecorder"
 
@@ -2625,7 +2530,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-subtitles/gnome-subtitles-lang/summary
 #. leap/gnome-subtitles/gnome-subtitles-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-subtitles"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2638,7 +2542,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-sudoku/gnome-sudoku-lang/summary
 #. leap/gnome-sudoku/gnome-sudoku-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-sudoku"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2651,7 +2554,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-system-log/gnome-system-log-lang/summary
 #. leap/gnome-system-log/gnome-system-log-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-system-log"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2664,7 +2566,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-system-monitor/gnome-system-monitor-lang/summary
 #. leap/gnome-system-monitor/gnome-system-monitor-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-system-monitor"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2677,7 +2578,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-taquin/gnome-taquin-lang/summary
 #. leap/gnome-taquin/gnome-taquin-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-taquin"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2690,7 +2590,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-terminal/gnome-terminal-lang/summary
 #. leap/gnome-terminal/gnome-terminal-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-terminal"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2703,7 +2602,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-tetravex/gnome-tetravex-lang/summary
 #. leap/gnome-tetravex/gnome-tetravex-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-tetravex"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2753,7 +2651,6 @@ msgstr ""
 #. tumbleweed/gnome-themes/gnome-themes-lang/summary
 #. leap/gnome-themes/gnome-themes-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-themes"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2765,7 +2662,6 @@ msgstr "Dokumentation zu gawk."
 
 #. tumbleweed/gnome-todo/gnome-todo-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-todo"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2787,7 +2683,6 @@ msgstr ""
 #. tumbleweed/gnome-tweak-tool/gnome-tweak-tool-lang/summary
 #. leap/gnome-tweak-tool/gnome-tweak-tool-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-tweak-tool"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2810,7 +2705,6 @@ msgstr ""
 #. tumbleweed/gnome-user-docs/gnome-user-docs-lang/summary
 #. leap/gnome-user-docs/gnome-user-docs-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-user-docs"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2823,7 +2717,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-user-share/gnome-user-share-lang/summary
 #. leap/gnome-user-share/gnome-user-share-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-user-share"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2851,7 +2744,6 @@ msgstr "GNOME VFS ist das virtuelle Dateisystem von GNOME. Es dient als Basis f�
 #. tumbleweed/gnome-vfs2/gnome-vfs2-lang/summary
 #. leap/gnome-vfs2/gnome-vfs2-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-vfs2"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2897,7 +2789,6 @@ msgstr ""
 #. tumbleweed/gnome-weather/gnome-weather-lang/summary
 #. leap/gnome-weather/gnome-weather-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-weather"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -2910,7 +2801,6 @@ msgstr "Dokumentation zu gawk."
 #. tumbleweed/gnome-web-photo/gnome-web-photo-lang/summary
 #. leap/gnome-web-photo/gnome-web-photo-lang/summary
 #, fuzzy
-#| msgid "Languages for package gnome-do"
 msgid "Languages for package gnome-web-photo"
 msgstr "Ãœbersetzungen fÃ¼r das Paket gnome-do"
 
@@ -3017,7 +2907,6 @@ msgstr ""
 #~ msgstr "XF86Messenger"
 
 #, fuzzy
-#~| msgid "A4 Size Label Templates for LibreOffice"
 #~ msgid "A simple thesaurus for Libreoffice"
 #~ msgstr "Etiketten-Vorlagen im A4-Format fÃ¼r LibreOffice"
 
@@ -3030,7 +2919,6 @@ msgstr ""
 #~ msgstr "LAPACK ist eine Sammlung von Unterprogrammen zur LÃ¶sung von Linearen Gleichungssystemen und von Eigenwertaufgaben. Es ist das Nachfolgeprodukt zu EISPACK und LINPACK. Da in LAPACK rechenzeitintensive Operationen i. a. durch Level2 oder Level3 BLAS realisiert werden, erreicht LAPACK i. a.  eine sehr hohe Performance auf modernen Rechnerarchitekturen wie Vektorrechnern, shared memory Parallelrechnern oder RISC Workstations."
 
 #, fuzzy
-#~| msgid "A Library to Manipulate XML Files"
 #~ msgid "A library to Manipulate RDF Files for LADSPA Plug-Ins"
 #~ msgstr "Eine Bibliothek zum Ã¤ndern von XML-Dateien"
 
