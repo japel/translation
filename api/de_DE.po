@@ -21,7 +21,7 @@ msgstr "Wähle eine WXR (.xml) Datei zum Hochladen, dann klicke auf Hochladen un
 
 #: wordpress-importer.php:889
 msgid "Zero size file downloaded"
-msgstr "Leere Datei heruntergeladen"
+msgstr "Leere Datei heruntergeladen 2935"
 
 #: wordpress-importer.php:877
 msgid "Remote server returned error response %1$d %2$s"
