@@ -27,7 +27,11 @@ msgstr ""
 
 #: wordpress-importer.php:877
 msgid "Remote server returned error response %1$d %2$s"
-msgstr "Der entfernte Server gab die Fehlermeldung %1$d %2$s zurück"
+msgstr ""
+"Der entfernte Server gab die Fehlermeldung %1$d %2$s zurück\n"
+"sfsdfsdf\n"
+"sdfsdfsdf\n"
+"sdfsdfsdf"
 
 #: wordpress-importer.php:235
 msgid "Failed to import author %s. Their posts will be attributed to the current user."
