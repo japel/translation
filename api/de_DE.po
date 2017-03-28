@@ -21,7 +21,9 @@ msgstr "Wähle eine WXR (.xml) Datei zum Hochladen, dann klicke auf Hochladen un
 
 #: wordpress-importer.php:889
 msgid "Zero size file downloaded"
-msgstr "Leere Datei heruntergeladen test 14t6"
+msgstr ""
+"Leere Datei heruntergeladen test 14t6\n"
+"dfgdfgfdg"
 
 #: wordpress-importer.php:877
 msgid "Remote server returned error response %1$d %2$s"
@@ -33,7 +35,17 @@ msgstr "Import des Benutzers %s fehlgeschlagen. Seine Beiträge werden dem aktue
 
 #: wordpress-importer.php:262
 msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
-msgstr "Um es für dich einfacher zu machen, den importierten Inhalt zu bearbeiten und zu speichern, solltest du als Autor des Inhalts einen bereits existierenden Nutzer dieser Site verwenden. Du kannst zum Beispiel alle Einträge als <code>admin</code>s Beiträge importieren."
+msgstr ""
+"Um es für dich einfacher zu machen, den importierten Inhalt zu bearbeiten und zu speichern, solltest du als Autor des Inhalts einen bereits existierenden Nutzer dieser Site verwenden. Du kannst zum Beispiel alle Einträge als <code>admin</code>s Beiträge importieren.\n"
+"sdfdsfsdf\n"
+"hbhbh\n"
+"kjnkjnkj\n"
+"ijuniun\n"
+"\n"
+"asdasdasd\n"
+"sdfsdfsdf\n"
+"sdfsdfsdf\n"
+"sdfsdfsdf"
 
 #: wordpress-importer.php:522
 msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
@@ -49,7 +61,13 @@ msgstr "Import der Kategorie %s fehlgeschlagen"
 
 #: wordpress-importer.php:456
 msgid "Failed to import post tag %s"
-msgstr "Import des Tags %s fehlgeschlagen"
+msgstr ""
+"Import des Tags %s fehlgeschlagen dfgdfgd\n"
+"dfgdfg\n"
+"dfdfgdfg\n"
+"dfgdgdfgdfg\n"
+"dfgdfgdgdfgdfg\n"
+""
 
 #: wordpress-importer.php:543
 msgid "%s &#8220;%s&#8221; already exists."
